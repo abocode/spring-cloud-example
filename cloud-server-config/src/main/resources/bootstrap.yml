@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ThoreauZZ/spring-cloud-example.git
+          uri: https://github.com/abocode/spring-cloud-example.git
           searchPaths: config-repo
           force-pull: true
         bootstrap: true
